@@ -36,11 +36,11 @@ public class A3Q1 {
                 defaultsteve.turnLeft();
                 defaultsteve.turnLeft();
                 defaultsteve.move();
-            } else { //Account for other direction
+            } else { //Account for other direction.
                 defaultsteve.turnLeft();
                 defaultsteve.move();
                 defaultsteve.turnLeft();
-                defaultsteve.move();
+                defaultsteve.move(); 
             }
         }
     }
